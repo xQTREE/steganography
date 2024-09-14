@@ -1,0 +1,74 @@
+message= <<H1D33N M3SSAG3>> =
+  Image       Mse        psnr
+0  amusement  0.000007   99.885822
+1      apple  0.000008   99.305903
+2     flower  0.000002  105.488235
+3      house  0.000008   99.305903
+4        man  0.000011   97.729824
+
+message=Hi there! How are you?
+char=20
+
+  Image       Mse        psnr
+0  amusement  0.000006  100.378003
+1      apple  0.000011   97.729824
+2     flower  0.000002  104.491205
+3      house  0.000006  100.207669
+4        man  0.000012   97.197369
+
+
+message=Exploring new ideas can lead to great discoveries!
+char=40
+
+       Image       Mse        psnr
+0  amusement  0.000012   97.455442
+1      apple  0.000018   95.665085
+2     flower  0.000003  102.998225
+3      house  0.000009   98.794378
+4        man  0.000022   94.672573
+
+
+message=Embracing challenges with a positive mindset often leads to personal growth and unexpected success.
+char=100
+
+0  amusement  0.000025   94.104344
+1      apple  0.000027   93.750424
+2     flower  0.000006  100.717022
+3      house  0.000017   95.844819
+4        man  0.000035   92.713874
+
+message= In the heart of a bustling city, amidst the cacophony of honking cars and chattering crowds, lies a quaint bookstore that seems almost out of place. Its weathered sign, painted with delicate brushstrokes, reads "The Whispering Pages." Inside, the air is filled with the comforting aroma of aged paper and freshly brewed coffee. Shelves, crammed with books of every imaginable genre, create a labyrinthine maze that invites exploration. The soft glow of reading lamps casts a warm, inviting light on the cozy reading nooks tucked into every corner. Visitors can often be found lost in their own worlds, flipping through the pages of novels, discovering forgotten classics, or discussing literature with passionate staff. The bookstore isn't just a place to buy books; it's a sanctuary for those seeking solace, knowledge, and a momentary escape from the relentless pace of urban life. Every book holds a story, and every visitor, a new chapter waiting to be written.
+char=1000
+
+       Image       Mse       psnr
+0  amusement  0.000209  84.922457
+1      apple  0.000207  84.972205
+2     flower  0.000054  90.801903
+3      house  0.000249  84.166240
+4        man  0.000308  83.244778
+
+
+message= In the heart of a lush, sprawling valley where the majestic mountains meet the serene lake, lies the enchanting town of Veridonia, a place where time seems to slow down and nature's beauty is intertwined with human life. The town's picturesque landscape is dominated by verdant hills and ancient oak trees, their canopies creating a natural archway over winding, cobblestone paths that meander through quaint neighborhoods. Each home in Veridonia exudes a sense of history and character, with ivy-clad walls and flowering window boxes that reflect the town's commitment to preserving its charm while embracing modernity. The local market, a vibrant tapestry of colors and sounds, is a focal point where farmers proudly display their seasonal produce, and artisans offer their handcrafted wares, ranging from intricate pottery to beautifully woven textiles. The air is filled with the aromas of freshly baked bread, sizzling meats from the barbecue stalls, and the delicate fragrance of blooming flowers, creating a sensory feast that welcomes visitors and locals alike. The town’s central square, with its grand fountain and shaded benches, serves as a communal gathering place where residents come to exchange stories, celebrate milestones, and enjoy spontaneous performances by local musicians. As twilight descends, the square transforms into a magical space illuminated by strings of fairy lights, casting a warm glow over evening festivities and fostering a sense of camaraderie among the townspeople. In Veridonia, each season brings its own unique charm; spring ushers in a burst of colors with blooming gardens and lively festivals, summer offers a vibrant array of outdoor concerts and farmers' markets, autumn paints the landscape in rich hues of gold and amber, and winter blankets the town in a serene layer of snow, perfect for cozy fireside gatherings and festive holiday markets. Beyond the town’s borders, the surrounding countryside offers a wealth of natural beauty and recreational opportunities. The nearby lake, with its crystal-clear waters, is a haven for boating, fishing, and tranquil picnics along its shore, while the surrounding hills provide an array of hiking trails and panoramic viewpoints that showcase the breathtaking vistas of the valley below. The town’s commitment to environmental stewardship is evident in its efforts to maintain and protect these natural resources, ensuring that future generations can continue to enjoy the same pristine landscapes that define Veridonia. Education and culture thrive in the town’s well-preserved institutions, including the historic library, which houses an extensive collection of rare books and manuscripts, and the local museum, which offers a glimpse into the town’s rich heritage through its carefully curated exhibits. Community events, from art exhibitions to literary readings, are held regularly, reflecting Veridonia’s dedication to fostering a vibrant cultural scene and encouraging lifelong learning. The town’s schools, known for their small class sizes and dedicated teachers, provide a nurturing environment that supports the academic and personal growth of students, preparing them to become thoughtful and engaged members of the community. Veridonia’s strong sense of community is perhaps its most defining feature. The town’s residents, known for their friendliness and willingness to help one another, come together to support local initiatives, from charity fundraisers to environmental clean-up projects. This spirit of collaboration and mutual respect is evident in the many volunteer-run organizations and community groups that work tirelessly to enhance the quality of life in Veridonia. As night falls, the town’s tranquil ambiance is accentuated by the soft glow of street lamps and the gentle sounds of nature, creating a serene atmosphere that invites reflection and relaxation. The clear, starry skies offer a spectacular view of the cosmos, reminding residents of the vastness of the universe and the small but meaningful role they play in it. Veridonia, with its harmonious blend of natural beauty, rich cultural heritage, and strong community spirit, stands as a testament to the enduring value of preserving the past while embracing the future, making it a truly exceptional place to live, visit, and cherish.
+
+char=5000
+
+      Image       Mse       psnr
+0  amusement  0.000911  78.537906
+1      apple  0.000937  78.414582
+2     flower  0.000245  84.241300
+3      house  0.001100  77.715686
+4        man  0.001349  76.830006
+
+
+message= Nestled between the rugged mountains and the vast, rolling plains lies the extraordinary town of Serenadia, a place where the splendor of nature and the richness of human culture intertwine in perfect harmony. Serenadia is renowned for its breathtaking scenery, where towering peaks of the Silverstone Range rise majestically into the sky, their snow-capped summits shimmering in the sunlight. These mountains serve as a dramatic backdrop to the town, their craggy faces etched with ancient geological formations that tell a story of millennia. The foothills, gently sloping and covered in lush forests, are crisscrossed with meandering trails that invite both casual walkers and seasoned hikers to explore their depths. As one ascends these trails, the landscape transforms from dense woodlands to alpine meadows adorned with wildflowers of every conceivable hue, creating a vibrant tapestry that shifts with the changing seasons. The town itself, with its charming mix of historic and contemporary architecture, exudes a timeless quality. Cobblestone streets wind through neighborhoods where elegant Victorian homes with ornate facades stand alongside modern eco-friendly buildings designed to blend seamlessly with the surrounding environment. Each home is a testament to the town’s commitment to preserving its historical character while embracing innovation and sustainability. The central square of Serenadia is a bustling hub of activity, where locals and visitors alike gather to enjoy the diverse offerings of the weekly farmers' market. Here, the air is filled with the tantalizing aromas of freshly baked bread, roasted coffee beans, and sizzling street food, as vendors showcase an array of locally produced goods. Handcrafted jewelry, artisanal cheeses, and organic vegetables are just a few of the many treasures to be found at the market, which is as much a social event as it is a shopping experience. Surrounding the square are charming cafes and bistros with outdoor seating that allows patrons to savor their meals while soaking in the lively atmosphere of the town. In the evenings, the square transforms into a vibrant venue for local performances, including live music, theater, and dance, fostering a strong sense of community and cultural appreciation. The town’s commitment to the arts is further exemplified by its array of galleries and studios, where local artists display their work and offer workshops to engage the community in creative pursuits. Serenadia’s cultural calendar is rich and varied, featuring annual festivals that celebrate everything from local folklore to international cuisine. The Harvest Festival, for example, is a highlight of the year, drawing crowds from far and wide to enjoy a weekend of agricultural displays, craft booths, and culinary delights. The Winter Solstice Celebration, on the other hand, transforms the town into a magical wonderland of twinkling lights, ice sculptures, and festive music, creating an enchanting atmosphere that captures the essence of the season. Beyond the town’s cultural and social vibrancy, Serenadia is also a beacon of environmental stewardship. The town’s commitment to sustainability is evident in its extensive network of parks and green spaces, which are meticulously maintained to preserve their natural beauty and ecological health. The local government has implemented a range of initiatives to reduce the town’s carbon footprint, including the promotion of renewable energy sources, waste reduction programs, and conservation efforts aimed at protecting the region’s diverse flora and fauna. Serenadia is home to several wildlife reserves and nature preserves, where visitors can explore pristine habitats and observe native species in their natural environments. The town’s educational institutions, including the renowned Serenadia University, play a pivotal role in advancing environmental research and fostering a culture of sustainability among students and faculty. The university’s campus, with its state-of-the-art research facilities and sprawling botanical gardens, serves as a hub for innovation and learning, attracting scholars and researchers from around the globe. The town’s commitment to education is reflected in its well-resourced public schools, which provide students with a high-quality education and a wide range of extracurricular activities that support their academic and personal growth. The strong sense of community that characterizes Serenadia is also evident in its network of volunteer organizations and community service groups. Residents actively participate in a variety of initiatives aimed at improving the quality of life for all members of the community, from organizing charity events and fundraising drives to participating in local clean-up efforts and supporting social services. This spirit of altruism and mutual support contributes to the town’s welcoming and inclusive atmosphere, making Serenadia a place where people from all walks of life feel valued and connected. As day turns to night, the town’s serene ambiance is enhanced by the clear, star-filled skies and the gentle sounds of nature. The tranquil setting provides an ideal environment for reflection and relaxation, allowing residents and visitors to unwind and appreciate the simple pleasures of life. Serenadia’s blend of natural beauty, cultural richness, and community spirit makes it a truly exceptional place, where the past and future coexist in perfect balance, creating a unique and enduring legacy for generations to come.
+
+char= 10000
+
+
+       Image       Mse       psnr
+0  amusement  0.001256  77.140121
+1      apple  0.001196  77.352962
+2     flower  0.000318  83.106154
+3      house  0.001314  76.945099
+4        man  0.001709  75.802211
+
